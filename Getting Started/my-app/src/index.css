@@ -12,15 +12,8 @@ code {
     monospace;
 }
 
-.heading {
-  color: red;
-}
-
-ul{
-  color: blue;
-}
-
-.Food-img{
-   height: 100px;
-   width: 100px;
+.heading{
+  font-size:  50px;
+  font-weight:bold;
+  border-bottom:  5px solid black;
 }
