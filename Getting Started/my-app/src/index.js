@@ -4,11 +4,15 @@ import ReactDOM from 'react-dom/client';
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-//const name = "Ahsanul Mostakin";
-const img = "https://picsum.photos/200";
+const customStyle = {
+  color: "red",
+  fontSize: "20px",
+  border: "1px solid black"
+};
+
+customStyle.color = "blue";
 root.render(
-  <div>
-    <h1 className="heading"> My Favorite Foods are:</h1>
-    <img src = {img}/>
-  </div>
+
+    <h1 style={customStyle}>Hello World</h1>
+  
 );
