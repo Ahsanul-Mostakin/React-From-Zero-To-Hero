@@ -20,4 +20,3 @@ This course is designed to help beginners learn React. It covers the core concep
 
 - Basic knowledge of JavaScript, HTML, and CSS
 - Node.js and npm installed
-
