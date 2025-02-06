@@ -1,6 +1,6 @@
 # React Crash Course: From Zero to Hero
 
-This repository contains the source code and exercises for the **React Crash Course: From Zero to Hero** course that I am currently working through.
+This repository contains the source code and exercises for the **React Course: From Zero to Hero** course that I am currently working through.
 
 ## Course Overview
 
